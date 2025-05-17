@@ -36,7 +36,7 @@ Este projeto foi construído como parte de um desafio prático, mas com um prop�
 
 ## 📸 Captura de tela
 
-![Captura de tela da planilha](images)
+![Captura de tela da planilha](images/Controle_Investimentos.png)
 
 ---
 
